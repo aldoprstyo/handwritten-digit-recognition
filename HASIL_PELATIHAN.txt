@@ -1,0 +1,6 @@
+Model: PyTorch MLP untuk klasifikasi digit 0-9
+Dataset: sklearn.datasets.load_digits
+Jumlah sampel: 1797
+Jumlah fitur: 64
+Akurasi data uji pada saat pembuatan: 0.9694 (96.94%)
+File bobot: digit_model.pth
